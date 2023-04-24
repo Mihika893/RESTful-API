@@ -1,0 +1,65 @@
+[
+  {
+   "name":"pc",
+   "price":"154",
+   "featured":false,
+   "company":"min"
+},
+  {
+   "name":"watch",
+   "price":"154",
+   "featured":false,
+   "company":"apple"
+},
+  {
+   "name":"iphone14",
+   "price":"154",
+   "featured":false,
+   "company":"apple"
+},
+  {
+   "name":"macOs",
+   "price":"154",
+   "featured":false,
+   "company":"apple"
+},
+  {
+   "name":"iphone",
+   "price":"154",
+   "featured":false,
+   "company":"apple"
+},
+  
+{
+   "name":"gaming_console",
+   "price":"154",
+   "featured":false,
+   "company":"min"
+},
+
+{
+   "name":"powerbank",
+   "price":"154",
+   "featured":false,
+   "company":"samsung"
+},
+{
+   "name":"galaxyA30",
+   "price":"154",
+   "featured":false,
+   "company":"samsung"
+},
+{
+   "name":"headphone",
+   "price":"154",
+   "featured":false,
+   "company":"dell"
+},
+{
+   "name":"laptop",
+   "price":"154",
+   "featured":false,
+   "company":"dell"
+}
+
+]
